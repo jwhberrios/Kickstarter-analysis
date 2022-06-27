@@ -1,5 +1,5 @@
 # Kickstarter-analysis
-Performing kickstarter analysis to look for trends
+Performing kickstarter analysis to look for trends.
 # An analysis of Kickstarter Campaigns
 Analysis of fundraising campaigns from various theatrical productions worldwide
 # Kickstarting with Excel
